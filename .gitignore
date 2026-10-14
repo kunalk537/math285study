@@ -1,0 +1,9 @@
+node_modules/
+.server-pid
+server.log
+server-error.log
+__pycache__/
+.vercel/
+qa/
+.env
+.env.*

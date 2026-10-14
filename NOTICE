@@ -1,0 +1,13 @@
+Math 285 Study Companion
+
+Includes the unchanged supplied textbook:
+Differential Equations, Jared C. Bronski and Aldo J. Manfroi
+University of Illinois Mathematics, first printing April 2026.
+Copyright © 2026 Jared C. Bronski and Aldo J. Manfroi.
+The textbook states it is licensed under the Apache License, Version 2.0.
+See dist/LICENSE.txt for that license and textbook.pdf page 4 for its notice.
+
+Additional conceptual explanations and worked solutions are newly authored
+for this study guide. Supplemental problems are labeled within the site.
+
+KaTeX is distributed under the MIT license; see dist/katex-LICENSE.txt.

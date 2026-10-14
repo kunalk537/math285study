@@ -2,13 +2,17 @@
 
 Concept-first, offline-capable study website based on the supplied Bronski–Manfroi notes and Fall 2026 calendar. Hosted as a static Vercel site; also runs locally.
 
+Live website: https://math285study.vercel.app
+
+Source repository: https://github.com/kunalk537/math285study (private). Pushes to `main` are connected to Vercel for automatic production deployment.
+
 ## Run
 
 From this directory, run `node server.cjs`, then open http://localhost:2850.
 
 `start.ps1` launches the server hidden in the background and opens the site. It reuses a running server on port 2850. `stop.ps1` stops only the process recorded by the launcher.
 
-The server binds to 127.0.0.1, so the site is accessible on this computer. It is not deployed publicly.
+The local server binds to 127.0.0.1, so that preview is accessible on this computer. The Vercel URL is accessible online.
 
 ## Features
 
